@@ -5,6 +5,7 @@ __pycache__/
 coding_guidelines.txt
 # C extensions
 *.so
+*.zip
 
 
 # Distribution / packaging
