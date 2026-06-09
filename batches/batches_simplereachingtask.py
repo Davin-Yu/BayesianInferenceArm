@@ -6,7 +6,7 @@ import visualisation as vis
 batch_name = "simple_reaching_task_test" # Defines folder name
 save_results = True
 param_grid = {
-    "task_type": ["repeated_reaching"],
+    "task_type": ["simple_reaching_task"],
     "n_runs": [1], # number of runs of n_trials
     "n_trials": [1], # number of trials within a run
     "planned_max_time_target" : [2.0], # The amount of time in which the agent will try to reach the target 
